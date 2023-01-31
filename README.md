@@ -3,7 +3,9 @@
 
 - 🎓 I have a degree in Computational Physics.
 
-- 🌱 I'm currently learning Machine Learning and Back-end Web frameworks.
+- 👀 I'm interested in Machine Learning and Software Development with Python, C and C++.
+
+- 🌱 I'm currently learning Golang and some Python Back-end web frameworks.
 
 - ⚡ I enjoy playing chess and solving puzzles.
 
@@ -15,7 +17,7 @@
 
 <hr/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xbandrade&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="xbandrade"/></p><p><a href="https://www.linkedin.com/in/xbandrade" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="xbandrade"/></a>  <a href="https://instagram.com/xbandrade" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="xbandrade"/></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xbandrade&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="xbandrade"/></p><p><a href="https://www.linkedin.com/in/xbandrade" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="xbandrade"/></a>  <a href="https://instagram.com/xbandrade" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="xbandrade"/></a>  <a href="https://dev.to/xbandrade" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="xbandrade"/></a></p>
 <p><img src="https://komarev.com/ghpvc/?username=xbandrade&label=Profile%20views&color=9856fb&style=flat" alt="xbandrade"/></p>
 
 
