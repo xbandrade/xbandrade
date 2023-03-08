@@ -5,7 +5,7 @@
 
 - 👀 I'm interested in Machine Learning and Software Development with Python, C and C++.
 
-- 🌱 I'm currently learning Golang and some Python Back-end web frameworks.
+- 🌱 I'm currently learning Golang.
 
 - ⚡ I enjoy playing chess and solving puzzles.
 
