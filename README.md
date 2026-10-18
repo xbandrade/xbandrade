@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Bruno Andrade</h1>
 
 <p align="center">
-  Computational Physics graduate • Software Developer • Artificial Intelligence enthusiast 
+  Computational Physics graduate • Software Developer
 </p>
 
 ---
@@ -9,9 +9,8 @@
 ## About me
 
 - 🎓 I have a degree in Computational Physics
-- 👀 I'm interested in Machine Learning and Software Development with Python, C, and C++
-- 🌱 I'm currently learning C# and Golang
-- ⚡ I enjoy playing chess and solving puzzles
+- 👀 I'm interested in Cybersecurity and Digital Safety
+- ⚡ I enjoy breaking complex challenges with creative solutions 
 
 ---
 
@@ -57,8 +56,12 @@
     <img src="https://baxx.dev/assets/images/baxxp.png" alt="baxx.dev" width="110"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://pxgpuzzles.vercel.app" target="_blank" rel="noreferrer">
-    <img src="https://pxgpuzzles.vercel.app/images/logo.png" alt="PxG Puzzles" width="200"/>
+  <a href="https://pxgear.baxx.dev" target="_blank" rel="noreferrer">
+    <img src="https://pxgear.baxx.dev/assets/images/pxgear.png" alt="PxGear" width="200"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://baxx.dev/advplui" target="_blank" rel="noreferrer">
+    <img src="https://baxx.dev/assets/images/advplui.svg" alt="ADVPL UI" width="200"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://odontodj.onrender.com" target="_blank" rel="noreferrer">
@@ -76,6 +79,9 @@
   </a>
   <a href="https://instagram.com/xbandrade" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discord.com/users/444663819336286228" target="_blank">
+    <img src="discord.svg" alt="Discord"/>
   </a>
   <a href="https://leetcode.com/baxx/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
